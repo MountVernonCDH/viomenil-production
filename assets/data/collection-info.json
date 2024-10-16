@@ -1,0 +1,20 @@
+{ 
+    "title": "The Correspondence of Baron de Vioménil",
+    "url": "https://mountvernoncdh.github.io/",
+    "image": "/assets/img/viomenil-header.png", 
+    "description": "The Correspondence of Baron de Vioménil Project is part of an effort at the George Washington Presidential Library at Mount Vernon to transcribe and translate the manuscript papers of Vioménil, a French officer who served during the American War for Independence. It has been generously funded by the Richard Lounsbery Foundation.",
+    "publisher": { 
+        "name": "George Washington Presidential Library at Mount Vernon", 
+        "url": "https://www.mountvernon.org/library", 
+        "logo": "/assets/img/library-logo.png" 
+    },
+    "date_start": "1779",
+    "date_end": "1784",
+    "objects": {
+        null: "0"
+        
+    },
+    "data": "https://mountvernoncdh.github.io/assets/data/datapackage.json",
+    "last_build_date": "2024-10-16"
+}
+

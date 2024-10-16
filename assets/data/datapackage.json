@@ -1,0 +1,70 @@
+{
+    "profile": "data-package",
+    "name": "the-correspondence-of-baron-de-vioménil-data",
+    "title": "The Correspondence of Baron de Vioménil Data",
+    "description": "Metadata and data derived from The Correspondence of Baron de Vioménil. The Correspondence of Baron de Vioménil Project is part of an effort at the George Washington Presidential Library at Mount Vernon to transcribe and translate the manuscript papers of Vioménil, a French officer who served during the American War for Independence. It has been generously funded by the Richard Lounsbery Foundation.",
+    "keywords":  ["history","viomenil","mount vernon","american revolution"],
+    "homepage": "https://mountvernoncdh.github.io/",
+    "contributors": [
+        {
+            "title": "George Washington Presidential Library at Mount Vernon",
+            "path": "https://www.mountvernon.org/library",
+            "role": "author"
+        }
+    ],
+    "image": "/assets/img/viomenil-header.png",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "The Correspondence of Baron de Vioménil Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "The Correspondence of Baron de Vioménil geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "The Correspondence of Baron de Vioménil timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "The Correspondence of Baron de Vioménil full metadata in csv",
+            "description": "Complete metadata export for The Correspondence of Baron de Vioménil objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "The Correspondence of Baron de Vioménil full metadata in json",
+            "description": "Complete metadata export for The Correspondence of Baron de Vioménil objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
